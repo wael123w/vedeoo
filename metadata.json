@@ -1,0 +1,6 @@
+{
+  "name": "StoryForge AI",
+  "description": "Desktop AI short story and novel video creator with scene generation, narration, subtitles, and social publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
